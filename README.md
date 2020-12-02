@@ -20,7 +20,7 @@
 * [IBM Watson Machine Learning: Build a Binary Classification model using an AutoAI Experiment](https://youtu.be/eOPSGnGwe-4)
 * [IBM Watson Machine Learning: Build a multiclass classification model by running an AutoAI experiment](https://youtu.be/sQ3rK5YTxvc)
 * [IBM Watson Machine Learning: Run a sample AutoAI experiment to create a machine learning model](https://youtu.be/IDKCmC1fCiU)
-* [Use the Data Refinery to shape raw data](https://youtu.be/9Vvs7kFEMjI)
+* [Use the Data Refinery to shape raw data](https://youtu.be/f1BrLoS72vU)
 
 ## Introduction to natural language processing
 ## Natural language processing concepts and components
