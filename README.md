@@ -46,7 +46,4 @@
 * [How to request Wikipedia API via Watson Assistant Webhooks](https://youtu.be/asPrLHnSvf4)
 * [Watson Assistant Intent Conflict Resolution](https://youtu.be/9gQtjCBxjdc)
 
-## Introduction to computer vision
-## Computer vision fundamentals
-## Introduction to IBM Watson Visual Recognition
 ## Designing and building an intelligent solution
