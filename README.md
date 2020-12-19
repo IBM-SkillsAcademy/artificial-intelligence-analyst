@@ -53,3 +53,6 @@
 * [Watson Assistant Intent Conflict Resolution](https://youtu.be/9gQtjCBxjdc)
 
 ## Designing and building an intelligent solution
+
+## More
+* [Cloud Pak for Data as a Service videos](http://ibm.biz/cpdaas-videos)
