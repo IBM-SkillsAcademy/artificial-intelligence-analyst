@@ -15,12 +15,18 @@
 * [Create a folder asset connection in a Watson Studio project: Cloud Pak for Data as a Service](https://youtu.be/roXkkSekwcI)
 * [Manage object storage: Cloud Pak for Data as a Service](https://youtu.be/NGpzUhegDRs)
 
+## Data Refinery
+* [Use the Data Refinery to shape raw data](https://youtu.be/f1BrLoS72vU)
+
 ## Introduction to IBM Watson Machine Learning
 * [IBM Watson Machine Learning: Get Started in IBM Cloud](https://youtu.be/NmdjtezQMSM)
-* [IBM Watson Machine Learning: Build a Binary Classification model using an AutoAI Experiment](https://youtu.be/eOPSGnGwe-4)
+
+## AutoAI
+* [IBM Watson Machine Learning: Build a Binary Classification model using an AutoAI Experiment](https://video.ibm.com/recorded/127932164)
+* [Run an AutoAI Experiment to build a Watson Machine Learning model: Cloud Pak for Data 3.5](https://youtu.be/H_TsbZ7vbpU) - Binary classification model for a marketing campaign
 * [IBM Watson Machine Learning: Build a multiclass classification model by running an AutoAI experiment](https://youtu.be/sQ3rK5YTxvc)
 * [IBM Watson Machine Learning: Run a sample AutoAI experiment to create a machine learning model](https://youtu.be/IDKCmC1fCiU)
-* [Use the Data Refinery to shape raw data](https://youtu.be/f1BrLoS72vU)
+* [IBM Watson Machine Learning: Join data sets in AutoAI to create models](https://youtu.be/9QpePzhHRnY)
 
 ## Introduction to natural language processing
 ## Natural language processing concepts and components
