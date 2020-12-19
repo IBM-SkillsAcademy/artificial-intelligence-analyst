@@ -27,6 +27,7 @@
 * [IBM Watson Machine Learning: Build a multiclass classification model by running an AutoAI experiment](https://youtu.be/sQ3rK5YTxvc)
 * [IBM Watson Machine Learning: Run a sample AutoAI experiment to create a machine learning model](https://youtu.be/IDKCmC1fCiU)
 * [IBM Watson Machine Learning: Join data sets in AutoAI to create models](https://youtu.be/9QpePzhHRnY)
+* [IBM Watson Machine Learning: AutoAI user experience analysis](https://youtu.be/zGeGWtBYQ58): [AutoAI data join multi-classification tutorial](https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.5.0/wsj/analyze-data/autoai-join-data-bin-class-tutorial.html)
 
 ## Introduction to natural language processing
 ## Natural language processing concepts and components
