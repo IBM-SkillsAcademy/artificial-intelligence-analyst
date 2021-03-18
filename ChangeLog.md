@@ -1,3 +1,4 @@
+# Change Log
 ## Artificial Intelligence Analyst 2021 - January 2021
 * Updated screenshots to match latest UI changes in IBM Cloud.
 * Uploaded most of the xercises to GitHub instead of Box.
