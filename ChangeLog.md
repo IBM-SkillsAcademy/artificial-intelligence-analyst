@@ -14,7 +14,7 @@
   * Use the new version of WML API.
 * Unit 14: Introduction to IBM Watson Visual Recognition: Removed
 * Exercise 10: New exercise using deep learning instead of Watson Visual Recognition.
-## Artificial Intelligence Analyst 2021 - Sepbember 2021 - NLC deprecation
+## Artificial Intelligence Analyst 2021 - September 2021 - NLC deprecation
 Changes to Course Guide "SAAI2-AI Analyst 2021-Course Guide.pdf" at https://ibm.ent.box.com/file/759205802809
 Refer to V4 (before updates) and V6 (after updates) 
 ### V4 before NLC deprecation. Original slides:
