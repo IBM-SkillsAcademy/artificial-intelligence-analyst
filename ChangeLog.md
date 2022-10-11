@@ -1,4 +1,8 @@
 # Change Log
+## Artificial Intelligence Analyst 2022
+* New exercises are added.
+## Artificial Intelligence Analyst 2021 - September 2021
+* Removed [Natural Language Classifier (NLC)](https://cloud.ibm.com/docs/natural-language-classifier) from units 2, 5, 8, and 9 because it is deprecated.
 ## Artificial Intelligence Analyst 2021 - January 2021
 * Updated screenshots to match latest UI changes in IBM Cloud.
 * Uploaded most of the xercises to GitHub instead of Box.
@@ -14,5 +18,3 @@
   * Use the new version of WML API.
 * Unit 14: Introduction to IBM Watson Visual Recognition: Removed
 * Exercise 10: New exercise using deep learning instead of Watson Visual Recognition.
-## Artificial Intelligence Analyst 2021 - September 2021
-* Removed [Natural Language Classifier (NLC)](https://cloud.ibm.com/docs/natural-language-classifier) from units 2, 5, 8, and 9 because it is deprecated.
