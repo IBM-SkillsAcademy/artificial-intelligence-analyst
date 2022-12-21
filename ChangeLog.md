@@ -11,7 +11,7 @@
 * Removed [Natural Language Classifier (NLC)](https://cloud.ibm.com/docs/natural-language-classifier) from units 2, 5, 8, and 9 because it is deprecated.
 ## Artificial Intelligence Analyst 2021 - January 2021
 * Updated screenshots to match latest UI changes in IBM Cloud.
-* Uploaded most of the xercises to GitHub instead of Box.
+* Move most of the exercises from Box to GitHub.
 * Notebooks now use Python 3.7 because Python 3.6 is deprecated.
 * Fixed some broken links.
 * Added steps for creating and using deployments spaces for exercises that use the Machine Learning service.
