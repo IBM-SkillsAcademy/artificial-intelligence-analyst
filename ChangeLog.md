@@ -1,6 +1,12 @@
 # Change Log
 ## Artificial Intelligence Analyst 2022
 * New exercises are added.
+* Replaced Watson Studio Local with CP4D.
+* Removed Zepplin notebooks.
+* Updated Watson services:
+  * Added aunit about AI ethics, model fairness, and Watson OpenScale.
+  * Update the list of NLP services and the supported files for Watson Discovery service.
+  * Removed Natural Language Classifier (NLC).
 ## Artificial Intelligence Analyst 2021 - September 2021
 * Removed [Natural Language Classifier (NLC)](https://cloud.ibm.com/docs/natural-language-classifier) from units 2, 5, 8, and 9 because it is deprecated.
 ## Artificial Intelligence Analyst 2021 - January 2021
