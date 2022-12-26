@@ -1,6 +1,5 @@
 | Course | Badge |
 | ------ | :---: |
-| [Data Science and Analytics](https://developer.ibm.com/digitalnation/africa/course/explorer-data-science-analytics/overview) - Explorer | <img src="https://images.youracclaim.com/images/bbc29533-501c-41f8-9ae2-1946bfc2891a/IDN%2BEmerging%2BTech%2B-%2BData%2BSci%2Band%2BAnalytics.png" alt="Data Science & Analytics Intro" width="150"/> |
 | [Data Science Tools](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2) | ![Data Science Tools](https://cognitiveclass.ai/system/badges/icon_images/5f99/7bb6/7a32/d800/018b/d1f8/thumb/Data-Science-Tools-150x150-c-default.png) |
 | [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2) | ![Data Science Methodologies](https://cognitiveclass.ai/system/badges/icon_images/5f99/842e/ea0d/9500/0179/6c67/thumb/Data_Science_Methodologies-150x150-c-default.png) |
 | [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) | ![Python for Data Science](https://cognitiveclass.ai/system/badges/icon_images/5f99/8c61/164a/be00/01fe/87b0/thumb/Python-101-Data-Science-150x150-c-default.png) |
