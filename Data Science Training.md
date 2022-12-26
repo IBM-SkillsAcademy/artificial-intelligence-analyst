@@ -1,7 +1,6 @@
 | Course | Badge |
 | ------ | :---: |
 | [Data Science and Analytics](https://developer.ibm.com/digitalnation/africa/course/explorer-data-science-analytics/overview) - Explorer | <img src="https://images.youracclaim.com/images/bbc29533-501c-41f8-9ae2-1946bfc2891a/IDN%2BEmerging%2BTech%2B-%2BData%2BSci%2Band%2BAnalytics.png" alt="Data Science & Analytics Intro" width="150"/> |
-| [Introduction to Data Science](https://cognitiveclass.ai/courses/data-science-101) | ![Data Scince](https://cognitiveclass.ai/system/badges/icon_images/5f99/8d47/7a32/d800/018b/d2ac/thumb/Data-Sci-Found-Level-1-CC-2019-150x150-c-default.png)<br/>[Data Science Foundations – Level 1](https://cognitiveclass.ai/badges/data-science-foundations-explorer) |
 | [Data Science Tools](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2) | ![Data Science Tools](https://cognitiveclass.ai/system/badges/icon_images/5f99/7bb6/7a32/d800/018b/d1f8/thumb/Data-Science-Tools-150x150-c-default.png) |
 | [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2) | ![Data Science Methodologies](https://cognitiveclass.ai/system/badges/icon_images/5f99/842e/ea0d/9500/0179/6c67/thumb/Data_Science_Methodologies-150x150-c-default.png) |
 | [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) | ![Python for Data Science](https://cognitiveclass.ai/system/badges/icon_images/5f99/8c61/164a/be00/01fe/87b0/thumb/Python-101-Data-Science-150x150-c-default.png) |
@@ -15,6 +14,7 @@
 | [IBM AI Enterprise Workflow Specialization](https://www.coursera.org/specializations/ibm-ai-workflow) | <img src="https://images.youracclaim.com/size/340x340/images/f96e14c2-4295-448d-ba9f-b36d9f2b3c99/Badge_C0004400.png" alt="IBM Certified Specialist - AI Enterprise Workflow" width="150"/> |
 | [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) | <img src="https://images.youracclaim.com/images/f02ef07e-9cc2-4bc4-a316-ccfaedde8559/Professional_Certificate_-_IBM_Machine_Language.png" alt="IBM Machine Learning Professional Certificate" width="150"/> |
 | [IBM AI Foundations for Business Specialization](https://www.coursera.org/specializations/ibm-ai-foundations-for-business) | <img src="https://images.youracclaim.com/images/4b79cc62-d398-4d20-8a8b-ac15335ccc04/AI_Foundations_Specialization.png" alt="Artificial Intelligence Foundations Specialization" width="150"/> |
+| [Predictive Modeling Fundamentals I](https://cognitiveclass.ai/courses/predictive-modeling-fundamentals) | <img src="" alt="Predictive Modeling Fundamentals I" width="150"/> |
 
 ## Learning Paths
 * [Data Science and Analytics Courses](https://developer.ibm.com/digitalnation/africa/courses/data_science_and_analytics) on [IBM Digital - Nation Africa](https://developer.ibm.com/digitalnation/africa)
