@@ -7,6 +7,12 @@
   * Added aunit about AI ethics, model fairness, and Watson OpenScale.
   * Update the list of NLP services and the supported files for Watson Discovery service.
   * Removed Natural Language Classifier (NLC).
+* Units 11 and 14, and exercises 8, 9 and 10: New and updated content for the new Watson Assistant experience.
+* New integration exercise: Exercise 12. Building a chatbot and movie recommender solution with Watson services and Node-RED
+* New content about AI ethics:
+  * Unit 15. Getting started with AI ethics.
+  * Exercise 13. Monitoring fairness in a credit risk prediction model.
+  * Exercise 14. Monitoring weather conditions bias in a model that predicts telecommunications call drops.
 ## Artificial Intelligence Analyst 2021 - September 2021
 * Removed [Natural Language Classifier (NLC)](https://cloud.ibm.com/docs/natural-language-classifier) from units 2, 5, 8, and 9 because it is deprecated.
 ## Artificial Intelligence Analyst 2021 - January 2021
