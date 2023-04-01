@@ -19,7 +19,10 @@
 * [Use the Data Refinery to shape raw data](https://youtu.be/f1BrLoS72vU)
 
 ## Introduction to IBM Watson Machine Learning
-* [IBM Watson Machine Learning: Get Started in IBM Cloud](https://youtu.be/NmdjtezQMSM)
+* [Get Started with Watson Machine Learning in IBM Cloud](https://video.ibm.com/recorded/127738028)
+* [Explore and prepare data - Tutorial part 1: Cloud Pak for Data as a Service](https://video.ibm.com/recorded/128074091)
+* [Build and deploy a machine learning model - Tutorial part 2: Cloud Pak for Data as a Service](https://video.ibm.com/recorded/128074092)
+* [How to deploy a machine learning model using a Jupyter notebook in Watson Studio?](https://youtu.be/bbEZk4ypRQU)
 
 ## AutoAI
 * [IBM Watson Machine Learning: Build a Binary Classification model using an AutoAI Experiment](https://video.ibm.com/recorded/127932164)
