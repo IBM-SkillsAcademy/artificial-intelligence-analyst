@@ -1,6 +1,8 @@
 # AI Analyst Videos and Tutorials
 
 ## Introduction to machine learning
+To evaluate clustering algorithms you can use Silhouette, which measures the separation of clusters and inter-cluster distance. See [Performance Metrics in Machine Learning — Part 3: Clustering](https://towardsdatascience.com/performance-metrics-in-machine-learning-part-3-clustering-d69550662dc6).
+
 ## Introduction to IBM Watson
 ## Introduction to IBM Watson Studio
 * [IBM Watson Studio: Build and train AI models in one integrated environment](https://youtu.be/MfH6T6J1_Jo)
