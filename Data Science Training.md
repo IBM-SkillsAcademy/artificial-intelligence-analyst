@@ -17,6 +17,7 @@
 | [IBM AI Enterprise Workflow Specialization](https://www.coursera.org/specializations/ibm-ai-workflow) | <img src="https://images.youracclaim.com/size/340x340/images/f96e14c2-4295-448d-ba9f-b36d9f2b3c99/Badge_C0004400.png" alt="IBM Certified Specialist - AI Enterprise Workflow" width="150"/> |
 | [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) | <img src="https://images.youracclaim.com/images/f02ef07e-9cc2-4bc4-a316-ccfaedde8559/Professional_Certificate_-_IBM_Machine_Language.png" alt="IBM Machine Learning Professional Certificate" width="150"/> |
 | [IBM AI Foundations for Business Specialization](https://www.coursera.org/specializations/ibm-ai-foundations-for-business) | <img src="https://images.youracclaim.com/images/4b79cc62-d398-4d20-8a8b-ac15335ccc04/AI_Foundations_Specialization.png" alt="Artificial Intelligence Foundations Specialization" width="150"/> |
+| [Applied Data Science Specialization](https://www.coursera.org/specializations/applied-data-science) | <img src="https://images.credly.com/size/340x340/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png" alt="Applied Data Science Specialization" width="150"/> |
 
 ## Learning Paths
 * [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python)
