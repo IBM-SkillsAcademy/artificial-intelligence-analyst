@@ -18,6 +18,7 @@
 | [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) | <img src="https://images.youracclaim.com/images/f02ef07e-9cc2-4bc4-a316-ccfaedde8559/Professional_Certificate_-_IBM_Machine_Language.png" alt="IBM Machine Learning Professional Certificate" width="150"/> |
 | [IBM AI Foundations for Business Specialization](https://www.coursera.org/specializations/ibm-ai-foundations-for-business) | <img src="https://images.youracclaim.com/images/4b79cc62-d398-4d20-8a8b-ac15335ccc04/AI_Foundations_Specialization.png" alt="Artificial Intelligence Foundations Specialization" width="150"/> |
 | [Applied Data Science Specialization](https://www.coursera.org/specializations/applied-data-science) | <img src="https://images.credly.com/size/340x340/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png" alt="Applied Data Science Specialization" width="150"/> |
+| [Generative AI in Action](https://www.ibm.com/academic/topic/artificial-intelligence?ach_id=9217fca4-c36f-4e1d-ab87-da43469344a5) | <img src="https://images.credly.com/size/340x340/images/8d1fe454-ecd2-40c1-b79f-b97ad326f8ea/Generative_20AI_20in_20action.png" alt="Generative AI in Action" width="150"/> |
 
 ## Learning Paths
 * [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python)
