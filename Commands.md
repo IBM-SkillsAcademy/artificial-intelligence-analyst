@@ -1,6 +1,6 @@
 Login to IBM Cloud
 ```
-ibmcloud login --apikey D3wgWAqx-qhvfTADfyz3NU_Go7xS8iTUxHXHF44b87m-
+ibmcloud login --apikey <Your API Key Here>
 ```
 
 List resource groups
