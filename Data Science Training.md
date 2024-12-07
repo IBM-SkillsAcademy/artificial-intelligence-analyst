@@ -32,7 +32,9 @@
 | [Generative AI for Software Development](https://www.coursera.org/professional-certificates/generative-ai-for-software-development) | <img src="https://images.credly.com/size/340x340/images/e41c77a7-4668-44e4-a196-008235304a3d/image.png" alt="Generative AI for Software Development" width="200"/> |
 
 ## Learning Paths
+* [CognitiveClass Learning Paths](https://cognitiveclass.ai/learn)
+* [Fundamentals of AI](https://cognitiveclass.ai/learn/fundamentals-of-ai)
 * [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python)
-* [Data Science for Business - Level 1](https://cognitiveclass.ai/courses/data-privacy)
+* [Data Science for Business](https://cognitiveclass.ai/learn/data-science-business)
 * [Deep Learning](https://cognitiveclass.ai/learn/deep-learning)
 * [Scala Programming for Data Science](https://cognitiveclass.ai/learn/scala)
